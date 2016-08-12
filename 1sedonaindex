@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <title>HTML Academy: Седона</title>
+  </head>
+    
+  <body>
+      <header class="header">
+          <div class="container">
+              <nav class="navigator">
+                  <ul>
+                      <li>
+                          <a href="#">информация</a>
+                      </li>
+                      <li>
+                          <a href="#">фото и видео</a>
+                      </li>
+                      <li>
+                          <a href="#">карта штата</a>
+                      </li>
+                      <li>
+                          <a href="#">гостиницы</a>
+                      </li>
+                  </ul>          
+              </nav>
+          </div>
+          </header>
+      
+          <div class="welcome">
+               <img src="http://placehold.it/150x100">
+          </div>
+          <div class="reasons">
+          <h2>Седона-небольшой городок в аризоне, заслуживающий большего</h2>
+              <p>Рассмотрим 5 причин, по которым Седона круче, чем Кранд Каньон</p>
+          </div>
+      
+          <div class="reasons">
+              <b>Настоящий городок</b>
+              <p>№1</p>
+              <p>Седона-не атракцион для туристов,там течет своя жизнь</p>
+              <div class="photo"><img src="http://placehold.it/150x100"></div>  
+              </div>
+      
+              <section class="features">
+                  <div class="features-item">
+                      <b class="features-name">Жилье</b>
+                      <p>Рекомендуем пожить в настоящем мотеле,все как в кино!</p>
+                  </div>
+                  <div class="features-item"> 
+                      <b class="features-name">Еда</b>
+                      <p>Всегда заказывайте фирменный бургер,вы не разочаруетесь!</p>
+                  </div>
+                  <div class="features-item">
+                      <b class="features-item">Сувениры</b>
+                      <p>Не только китайского,но и местного производства</p>
+                  </div>
+                  </section>
+      
+                  <div class="photo"><img src="http://placehold.it/150x100"></div>
+      <div><b>Там есть мост дьявола</b>
+          <p>№2</p>
+          <p>Да,по нему можно пройти!Если конечно вы осмелитесь</p>
+          </div>
+      
+      
+                    <div class="reasons">
+                    <b class="features-name">Небольшая площадь</b>
+                    <p>№3</p> 
+                    <p>Все достопримечательности находятся очень близко</p>
+                    </div>
+      
+      <div>
+          <b class="reasons">Красивая дорога</b>
+          <p>№4</p>
+          <p>Ехать в Седону из Лас-Вегаса совсем не скучно!</p>
+      </div>
+      
+      <div>
+          <b class="reasons">мало туристов</b>
+          <p>№5</p>
+          <p>большенство едет в Гранд Каньон и толпится там</p>
+      </div>
+      
+      <div>
+          <h2>Заинтересовались?</h2>
+          <p>Укажите предпологаемые даты поездки,и мы покажем вам предложения гостиниц в Седоне</p>
+      </div>
+
+    
+
+  </body>
+</html>
